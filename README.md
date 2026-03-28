@@ -82,7 +82,7 @@ Identifies which products drive most revenue
 
 ---
 
-###Sales Trends Over Time  
+### Sales Trends Over Time  
 Time-based performance to identify peaks, seasonality and recent momentum.  
 **Report:**  
 - **Peak sales month:** `<December,2023>`  
